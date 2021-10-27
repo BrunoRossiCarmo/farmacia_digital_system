@@ -116,7 +116,7 @@ CREATE TABLE IF NOT EXISTS `login` (
 --
 
 INSERT INTO `login` (`id`, `nome`, `senha`, `email`, `cargo`) VALUES
-(1, 'José Lucas de Souza', 'pintinho123', 'zeca_calibre21@gmail.com', 'administrador'),
+(1, 'José Luques de Sá', 'pintinho123', 'zeca_calibre21@gmail.com', 'administrador'),
 (2, 'Carlinhos', 'jutsu12', 'burrito@gmail.com', 'paciente');
 
 -- --------------------------------------------------------
